@@ -1,0 +1,23 @@
+{
+  "name": "prw2_avaliacao3",
+  "version": "1.0.0",
+  "description": "Avaliacao 3 de PRW2 - API de alunos com Node, Express e JWT",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Mauricio Santos de Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^18.0.10",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
