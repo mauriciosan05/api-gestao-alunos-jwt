@@ -2,7 +2,10 @@
 
 API em Node + Express para gerenciar alunos, com autenticação JWT.
 
-Aluno: Mauricio Santos de Almeida - RA sc3054691
+## Integrantes
+
+- Maurício Almeida — [@mauriciosan05](https://github.com/mauriciosan05)
+- Héber Zanelli — [@zanelli94](https://github.com/zanelli94)
 
 ## Como rodar
 
